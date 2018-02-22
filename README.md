@@ -5,6 +5,11 @@ A simple calculator using React Native
 git clone this repo  
 react-native run-ios
 ```
+or
+```
+git clone this repo  
+react-native run-android
+```
 # Use
 * React
 * React Native
